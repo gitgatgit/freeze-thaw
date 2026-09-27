@@ -1,2 +1,2 @@
 # freeze-thaw
-selective app phone brick app, keeps system installed apps
+selective app phone brick adb tool, keeps system installed apps
